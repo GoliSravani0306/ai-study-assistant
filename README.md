@@ -2,7 +2,7 @@
 
 An AI-powered study tool that generates concept explanations, structured notes, and quizzes using the Google Gemini API. Built as a simple, focused project to explore prompt engineering and AI-integrated web apps.
 
-🔗 **Live Demo:** [Add link after deployment]
+🔗 **Live Demo:** https://ai-study-assistant-ecpo.onrender.com
 
 ## Features
 
